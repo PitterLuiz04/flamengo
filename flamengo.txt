@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cxm,v cvjvjdfjk
+=======
+outra pessoa
+>>>>>>> b62149f6dc626db6faf9d47fbe551412aae5ba89
